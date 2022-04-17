@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [Halibal | Kodluyoruz JS Project](https://halibal.github.io/asian-cuisine/)
+- Live Site URL: [Halibal | Kodluyoruz JS Project](https://halibal.github.io/kodluyoruz-js-project/)
 
 ## Built with
 
